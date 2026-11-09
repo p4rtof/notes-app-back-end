@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+
+# Environment & Private Keys
+.env
+*.pem
